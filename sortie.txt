@@ -1,0 +1,12 @@
+ahmed: 5 
+ ali: 10 
+ chams: 4 
+ heithem: 12 
+ khaled: 10 
+ khalil: 17 
+ nacer: 5 
+ rami: 8 
+ saif: 10 
+ sami: 8 
+ walid: 9 
+ 
